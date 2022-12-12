@@ -1,0 +1,2 @@
+#define json_test_VERSION_MAJOR @json_test_VERSION_MAJOR@
+#define json_test_VERSION_MINOR @json_test_VERSION_MINOR@
